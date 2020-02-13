@@ -1,7 +1,7 @@
 /**
  * Clase principal.
  * Versión 1.0
- * Autor: Profesor Entorno Desarrollo
+ * Autor: Profesor Entorno  Desarrollo
  */
 public class Game {
 
