@@ -34,7 +34,7 @@ public class Parser{
                 if(tokenizer.hasNext()) {
                     // note: if the command has two or more words, it is not
 		            // valid
-		            return new Move();
+		            return new Move();  
                 }
 	    }
 	    

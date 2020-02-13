@@ -65,7 +65,7 @@ public class MoveWords{
 	    first_i = getIndex(first);
 	    second_i = getIndex(second);
 
-	    if (first_i == second_i) return EMPATE;
+	    if (first_i == second_i)  return EMPATE;
 	    
 	    return ((( second_i== (first_i +1) % validMoves.length )  )||(( second_i== (first_i +2) % validMoves.length )  )) ? GANA: PIERDE;
 	}
